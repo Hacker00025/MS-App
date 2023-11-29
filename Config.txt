@@ -1,0 +1,4 @@
+e0d2bd38-3bfe-4214-a9db-96ad5dcc8469 - APP Client ID
+43a0006a-aad4-4844-9199-7b96e63cc4a4 - Secret ID
+46A8Q~gmPcESYCbUDhnoBKJlGlE-RdezcYIyScLP - Secret Value
+78b175d5-b2cd-4f81-b100-d306709e21c3 - Tenet ID
